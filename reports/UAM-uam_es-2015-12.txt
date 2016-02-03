@@ -1,0 +1,66 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 169
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "smilodon" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "type:specimen genus:Bison family:Bovidae fossil:1" ; Times: 1
+	Query: "arctic ground squirrel" ; Times: 1
+	Query: "spermophilus parryii" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "mammut" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 889 download events in this period)
+Total number of records downloaded: 72
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-25 ; Times: 4
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-19 ; Times: 2
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "specificepithet:gulo genus:Gulo" ; Times: 2
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "specificepithet:albipes genus:Arborimus" ; Times: 1
+	Query: "spermophilus parryii mappable:1" ; Times: 1
+
+
+End of report.
