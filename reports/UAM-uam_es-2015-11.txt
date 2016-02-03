@@ -1,0 +1,75 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 474
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mammuthus" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "ichthyosaur" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "Elephantidae" ; Times: 3
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "PROBOSCIDEA" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 751 download events in this period)
+Total number of records downloaded: 370
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-03 ; Times: 14
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-13 ; Times: 2
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "Alces year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Ursus" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
