@@ -1,0 +1,76 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 196
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Israel ; Times: 1
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "whale" ; Times: 2
+	Query: "Asteraceae specimen" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Arctodus AND (skull) fossil:1" ; Times: 1
+	Query: "UAM 13406" ; Times: 1
+	Query: "eq" ; Times: 1
+	Query: "UAM 13411" ; Times: 1
+	Query: "unionidae" ; Times: 1
+	Query: "UAM 13412" ; Times: 2
+	Query: "smilodon" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 507 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
