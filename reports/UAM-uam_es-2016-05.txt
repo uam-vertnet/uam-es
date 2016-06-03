@@ -1,0 +1,52 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 62
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 2
+	Country: United States ; Times: 2
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "Equus lambei" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "AMNH 1282" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 327 download events in this period)
+Total number of records downloaded: 78
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Marmota marmota" ; Times: 1
+
+
+End of report.
