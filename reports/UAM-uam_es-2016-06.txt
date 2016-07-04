@@ -1,0 +1,120 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 1844
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Canada ; Times: 6
+	Country: Dominican Republic ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 4
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-21 ; Times: 24
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 7
+	Date: 2016-06-03 ; Times: 19
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Reptilia 30018" ; Times: 1
+	Query: "Reptilia 23129" ; Times: 1
+	Query: "Reptilia 16642" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Reptilia 3447" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Reptilia 30016" ; Times: 1
+	Query: "Reptilia 30017" ; Times: 1
+	Query: "Reptilia 13651" ; Times: 1
+	Query: "bison bison   " ; Times: 9
+	Query: "genus:Bison" ; Times: 1
+	Query: "Alces latifrons" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "11139" ; Times: 3
+	Query: "Reptilia 14056" ; Times: 2
+	Query: "Reptilia catalognumber:16754" ; Times: 1
+	Query: "ovibos" ; Times: 3
+	Query: "999 uam" ; Times: 1
+	Query: "Reptilia 21632" ; Times: 1
+	Query: "Reptilia 15902" ; Times: 1
+	Query: "Reptilia 16156" ; Times: 1
+	Query: "Reptilia 19708" ; Times: 1
+	Query: "Reptilia 18280" ; Times: 2
+	Query: "Reptilia 18384" ; Times: 1
+	Query: "Reptilia 13523" ; Times: 1
+	Query: "alces alces   " ; Times: 9
+	Query: "Axis axis" ; Times: 2
+	Query: "16754" ; Times: 1
+	Query: "Reptilia 19711" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "263856" ; Times: 1
+	Query: "Reptilia 19393" ; Times: 1
+	Query: "genus:canis" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "565124" ; Times: 2
+	Query: "Reptilia 18258" ; Times: 1
+	Query: "genus:bison" ; Times: 4
+	Query: "8442 mammalia" ; Times: 1
+	Query: "mammuthus" ; Times: 1
+	Query: "13164 reptilia" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "canis lupus   " ; Times: 6
+	Query: "25087" ; Times: 1
+	Query: "specificepithet:occiduus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Reptilia 3462" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1052 download events in this period)
+Total number of records downloaded: 144
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "canis latrans" ; Times: 3
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "Panthera leo" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
