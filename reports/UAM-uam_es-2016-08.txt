@@ -1,0 +1,65 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "34126" ; Times: 1
+	Query: "uam 16615" ; Times: 1
+	Query: "ginkgo" ; Times: 1
+	Query: "dentalium" ; Times: 4
+	Query: "whale" ; Times: 1
+	Query: "UCMP" ; Times: 1
+	Query: "Grizzly bear" ; Times: 2
+	Query: "uam 11634" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 924 download events in this period)
+Total number of records downloaded: 2391
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Austria ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Equus fossil:1" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "invertebrate" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+
+
+End of report.
