@@ -1,0 +1,109 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 469
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 38
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-10 ; Times: 4
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-04 ; Times: 38
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:447" ; Times: 1
+	Query: "acipenseriformes" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:3824?seid=1941817&#34;" ; Times: 4
+	Query: "293492" ; Times: 1
+	Query: "(el capitan) isfossil:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:29692?seid=1879849&#34;" ; Times: 4
+	Query: "veneroida" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:3077?seid=481654&#34;" ; Times: 4
+	Query: "Saiga tatarica " ; Times: 1
+	Query: "285753" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "Panthera spelaea " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:3820?seid=1941696&#34;" ; Times: 4
+	Query: "Equus" ; Times: 4
+	Query: "Ochotona whartoni " ; Times: 1
+	Query: "genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "class:Mammalia institutioncode:UAM" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:23942?seid=658645&#34;" ; Times: 4
+	Query: "Ovis dalli mappable:1" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:3819?seid=1941844&#34;" ; Times: 4
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Alces alces" ; Times: 4
+	Query: "placenta" ; Times: 1
+	Query: "Ursus maritimus mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:12250?seid=1738226&#34;" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:29656?seid=1941981&#34;" ; Times: 4
+	Query: "artiodactyl" ; Times: 2
+	Query: "mollusca" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "Alces alces alces" ; Times: 3
+	Query: "genus:&#34;inoceramus&#34;" ; Times: 1
+	Query: "Panthera leo mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1892 download events in this period)
+Total number of records downloaded: 55360
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Ursus americanus" ; Times: 1
+	Query: "class:Mammalia institutioncode:UAM" ; Times: 3
+
+
+End of report.
