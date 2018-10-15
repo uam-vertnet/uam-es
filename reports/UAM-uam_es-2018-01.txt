@@ -1,0 +1,122 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 557
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: United States ; Times: 32
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 26
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-12 ; Times: 24
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 3
+	Date: 2018-01-03 ; Times: 3
+	Date: 2018-01-13 ; Times: 3
+	Date: 2018-01-01 ; Times: 3
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-14 ; Times: 5
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-15 ; Times: 17
+	Date: 2018-01-25 ; Times: 8
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-23 ; Times: 4
+	Date: 2018-01-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:11316 institutioncode:UAM" ; Times: 2
+	Query: "Camelus bactrianus" ; Times: 2
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "Camelus bactrianus bactrianus" ; Times: 1
+	Query: "specificepithet:Bison genus:Bison" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "Alces alces alces mappable:1" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "UAM 28841" ; Times: 1
+	Query: "123553" ; Times: 1
+	Query: "29233" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "catalognumber:15109 institutioncode:UAM" ; Times: 3
+	Query: "bison skin" ; Times: 3
+	Query: "alces alces mappable:1" ; Times: 1
+	Query: "Alces alces mappable:1" ; Times: 3
+	Query: "catalognumber:11315 institutioncode:UAM" ; Times: 6
+	Query: "&#34;panthera leo&#34; mappable:1" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Serripes groenlandicus mappable:1" ; Times: 1
+	Query: "&#34;Saiga tatarica&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:17707 institutioncode:UAM" ; Times: 2
+	Query: "Panthera Leo mappable:1" ; Times: 1
+	Query: "V-1689" ; Times: 1
+	Query: "starfish" ; Times: 1
+	Query: "&#34;Panthera leo&#34; mappable:1" ; Times: 4
+	Query: "catalognumber:13158 institutioncode:UAM" ; Times: 2
+	Query: "(&#34;14C&#34;)" ; Times: 2
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "UAM 26413" ; Times: 1
+	Query: "Alces alces" ; Times: 5
+	Query: "(225778)" ; Times: 1
+	Query: "hasmedia:1 hastissue:1 isfossil:1" ; Times: 2
+	Query: "equus" ; Times: 1
+	Query: "(&#34;Carbon*&#34;) isfossil:1" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "catalognumber:11201 institutioncode:UAM" ; Times: 1
+	Query: "Ovibos" ; Times: 3
+	Query: "Panthera" ; Times: 2
+	Query: "catalognumber:11203 institutioncode:UAM" ; Times: 2
+	Query: "Glycymeris glycymeris mappable:1" ; Times: 1
+	Query: "catalognumber:8365 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:17884 institutioncode:UAM" ; Times: 2
+	Query: "18139" ; Times: 1
+	Query: "Crepidula fornicata mappable:1" ; Times: 1
+	Query: "Alces alces alces" ; Times: 4
+	Query: "Panthera leo" ; Times: 3
+	Query: "Hiatella arctica mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1398 download events in this period)
+Total number of records downloaded: 972
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(radiometric*) isfossil:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "class:Mammalia hasmass:1 mappable:1 hasmedia:1" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "hasmedia:1" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "Nyc" ; Times: 1
+
+
+End of report.
