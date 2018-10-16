@@ -1,0 +1,119 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 455
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 7
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-07 ; Times: 4
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-17 ; Times: 7
+	Date: 2018-04-23 ; Times: 12
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 4
+	Query: "26781" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "genus:Panthera " ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "rangifer" ; Times: 2
+	Query: "genus:Ursus specificepithet:arctos mappable:1" ; Times: 2
+	Query: "genus:Alopex specificepithet:lagopus mappable:1" ; Times: 1
+	Query: "87143" ; Times: 1
+	Query: "genus:Ochotona specificepithet:whartoni mappable:1" ; Times: 1
+	Query: "locality:Alaska year &gt;= 1995 year &lt;= 2000" ; Times: 1
+	Query: "genus:Ovis specificepithet:dalli mappable:1" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "A-31936" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "catalognumber:15228 institutioncode:UAM" ; Times: 1
+	Query: "genus:Arborimus specificepithet:albipes mappable:1" ; Times: 1
+	Query: "genus:bison" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "genus:Ovibos specificepithet:moschatus mappable:1" ; Times: 1
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "specificepithet:alces genus:Alces mappable:1" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "genus:ovibos" ; Times: 1
+	Query: "genus:Lemmus specificepithet:trimucronatus mappable:1" ; Times: 1
+	Query: "axis axis" ; Times: 2
+	Query: "symbos" ; Times: 2
+	Query: "catalognumber:10932 institutioncode:UAM" ; Times: 3
+	Query: "bivalvia" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "catalognumber:17877 institutioncode:UAM" ; Times: 2
+	Query: "bootherium" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "215680" ; Times: 1
+	Query: "genus:Rangifer specificepithet:tarandus mappable:1" ; Times: 1
+	Query: "genus:Bison specificepithet:bison mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1359 download events in this period)
+Total number of records downloaded: 21681
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "specificepithet:alces genus:Alces mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(63.87569,-149.21334))&lt;50000" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "Hymenoptera" ; Times: 2
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(68.62956,-149.61051))&lt;50000" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1995 year &lt;= 2000" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "distance(location,geopoint(68.66109,-149.37047))&lt;50000" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(68.66975,-149.14302))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+
+
+End of report.
