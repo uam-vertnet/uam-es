@@ -1,0 +1,139 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 199
+Number of records retrieved in searches: 2633
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 66
+	Country: France ; Times: 1
+	Country: United States ; Times: 123
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-19 ; Times: 5
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-07 ; Times: 66
+	Date: 2018-03-02 ; Times: 11
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-13 ; Times: 4
+	Date: 2018-03-05 ; Times: 6
+	Date: 2018-03-28 ; Times: 12
+	Date: 2018-03-29 ; Times: 5
+	Date: 2018-03-26 ; Times: 21
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-27 ; Times: 7
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-23 ; Times: 3
+	Date: 2018-03-20 ; Times: 44
+	Date: 2018-03-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:4037?seid=1941159&#34;" ; Times: 4
+	Query: "genus:Mammut specificepithet:americanum" ; Times: 5
+	Query: "radiocarbon isfossil:1" ; Times: 1
+	Query: "catalognumber:17951 institutioncode:UAM" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "genus:Saurornitholestes specificepithet:langstoni" ; Times: 6
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "specificepithet:latrans genus:canis year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:2178?seid=792900&#34;" ; Times: 4
+	Query: "&#34;14C&#34; isfossil:1" ; Times: 12
+	Query: "(14C) isfossil:1" ; Times: 3
+	Query: "14C isfossil:1" ; Times: 1
+	Query: "genus:Inoceramus" ; Times: 3
+	Query: "genus:Sconsia" ; Times: 3
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:22088?seid=1941539&#34;" ; Times: 4
+	Query: "genus:Lemmus specificepithet:trimucronatus" ; Times: 5
+	Query: "phylum:arthropoda hasmass:0" ; Times: 2
+	Query: "genus:Panthera" ; Times: 2
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:22176?seid=1941437&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:1649?seid=1917057&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:25061?seid=340343&#34;" ; Times: 4
+	Query: "16577" ; Times: 1
+	Query: "brachiopoda" ; Times: 1
+	Query: "genus:Phoca" ; Times: 1
+	Query: "(&#34;mya&#34; OR &#34;kya&#34; OR &#34;14C&#34; OR &#34;radiocarbon&#34;) isfossil:1" ; Times: 1
+	Query: "arthropoda" ; Times: 1
+	Query: "Elephantidae" ; Times: 3
+	Query: "genus:Anomia" ; Times: 3
+	Query: "(radiocarbon) AND (NOT PDBD) isfossil:1" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 3
+	Query: "genus:Cyclocardia" ; Times: 3
+	Query: "genus:Gulo institutioncode:UAM" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:4679?seid=1518318&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:28574?seid=1970428&#34;" ; Times: 4
+	Query: "14C" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:1103?seid=1941171&#34;" ; Times: 4
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "starfish" ; Times: 1
+	Query: "(14C) isfossil:1 BP" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:7599?seid=1953199&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:1612?seid=1050147&#34;" ; Times: 4
+	Query: "(Carbon) AND (NOT PBDB) isfossil:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis isfossil:1" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "&#34;mya&#34; isfossil:1" ; Times: 5
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 6
+	Query: "genus:Dromaeosaurus specificepithet:albertensis" ; Times: 6
+	Query: "&#34;radiocarbon&#34; isfossil:1" ; Times: 1
+	Query: "placenta" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "catalognumber:26000 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "AMS isfossil:1" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "genus:Pinna" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:2179?seid=1666177&#34;" ; Times: 4
+	Query: "genus:Smilodon specificepithet:fatalis" ; Times: 5
+	Query: "gbifdatasetid:9a201e2f-dada-4cb9-88c7-695e391aeb2f" ; Times: 3
+	Query: "genus:Corbicula" ; Times: 1
+	Query: "specificepithet:gulo genus:gulo" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:4515?seid=1119653&#34;" ; Times: 4
+	Query: "(radiocarbon) isfossil:1" ; Times: 1
+	Query: "16171" ; Times: 1
+	Query: "(radiocarbon) AND (NOT PBDB) isfossil:1" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:1088?seid=1941870&#34;" ; Times: 4
+	Query: "catalognumber:2600 institutioncode:UAM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1284 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-09 ; Times: 5
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 3
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "genus:Gulo institutioncode:UAM" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis institutioncode:UAM" ; Times: 1
+
+
+End of report.
