@@ -1,0 +1,109 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 252
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 33
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-14 ; Times: 5
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 6
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 7
+	Query: "UAM 18530" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "archaeological" ; Times: 1
+	Query: "vntype:specimen specificepithet:tatarica genus:Saiga" ; Times: 1
+	Query: "skull vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "107927" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "grizzly bear" ; Times: 5
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "american bison" ; Times: 3
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "skull vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 3
+	Query: "Alces alces" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1900 year &lt;= 1909" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Panthera leo	 100" ; Times: 3
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1909" ; Times: 3
+	Query: "175101" ; Times: 3
+	Query: "bear scapula" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "Grizzly Bear" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1169 download events in this period)
+Total number of records downloaded: 482
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "skull vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "oregon" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "gray wolf" ; Times: 2
+	Query: "Microtus" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+
+
+End of report.
