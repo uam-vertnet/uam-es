@@ -1,0 +1,117 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 777
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 83
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 5
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 6
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-19 ; Times: 16
+	Date: 2018-09-28 ; Times: 65
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:23834 institutioncode:UAM" ; Times: 2
+	Query: "Mammuthus primigenius" ; Times: 1
+	Query: "catalognumber:35344 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:34604 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:30391 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:30819 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:20662 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:30822 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23667 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:31106 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23730 institutioncode:UAM" ; Times: 3
+	Query: "catalognumber:23732 institutioncode:UAM" ; Times: 2
+	Query: "Grizzly bear" ; Times: 1
+	Query: "catalognumber:31104 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:34616 institutioncode:UAM" ; Times: 2
+	Query: "miocene" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "catalognumber:23421 institutioncode:UAM" ; Times: 2
+	Query: "OSU" ; Times: 1
+	Query: "catalognumber:30590 institutioncode:UAM" ; Times: 2
+	Query: "panthera leo" ; Times: 14
+	Query: "catalognumber:20948 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:20945 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:30818 institutioncode:UAM" ; Times: 2
+	Query: "grizzly bear" ; Times: 3
+	Query: "specificepithet:albipes genus:Arborimus" ; Times: 4
+	Query: "catalognumber:35318 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:41652 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23665 institutioncode:UAM" ; Times: 2
+	Query: "966912" ; Times: 1
+	Query: "cave san francisco" ; Times: 1
+	Query: "catalognumber:30820 institutioncode:UAM" ; Times: 3
+	Query: "catalognumber:23830 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23831 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23828 institutioncode:UAM" ; Times: 2
+	Query: "strongylocentrotus franciscanus" ; Times: 1
+	Query: "strongylocentrotus" ; Times: 1
+	Query: "gbifdatasetid:9a201e2f-dada-4cb9-88c7-695e391aeb2f" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "catalognumber:31105 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23425 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:20582 institutioncode:UAM" ; Times: 2
+	Query: "UAM 21722" ; Times: 1
+	Query: "catalognumber:20664 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:20665 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:30874 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:30873 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:30821 institutioncode:UAM" ; Times: 2
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "catalognumber:23829 institutioncode:UAM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 846 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leo genus:Panthera mappable:1" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "canis lupus" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "continent:South America" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+
+
+End of report.
