@@ -1,0 +1,85 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 78
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 8
+	Date: 2018-07-03 ; Times: 18
+	Date: 2018-07-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "UAM 23492" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "UAM 35341" ; Times: 2
+	Query: "UAM 23425" ; Times: 1
+	Query: "UAM 20949" ; Times: 1
+	Query: "UAM 30343" ; Times: 1
+	Query: "UAM 31725" ; Times: 1
+	Query: "richard erickson" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "UAM 23442" ; Times: 1
+	Query: "UAM 23834" ; Times: 1
+	Query: "UAM 30821" ; Times: 1
+	Query: "UAM 20582" ; Times: 2
+	Query: "UAM 23665" ; Times: 1
+	Query: "UAM 23717" ; Times: 1
+	Query: "UAM 23956" ; Times: 1
+	Query: "UAM 23992" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "Ensifera ensifera mappable:1" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "UAM 35335" ; Times: 1
+	Query: "UAM 35336" ; Times: 1
+	Query: "UAM 35337" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "UAM 23658" ; Times: 1
+	Query: "mastodon" ; Times: 1
+	Query: "UAM 23107" ; Times: 1
+	Query: "UAM 23437" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "620265" ; Times: 1
+	Query: "UAM 41652" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 977 download events in this period)
+Total number of records downloaded: 120
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "insecta" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+
+
+End of report.
