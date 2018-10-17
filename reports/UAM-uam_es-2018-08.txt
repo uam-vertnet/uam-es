@@ -1,0 +1,149 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 1177
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 121
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 9
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-30 ; Times: 93
+	Date: 2018-08-31 ; Times: 8
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 17
+	Date: 2018-08-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "UAM 20698" ; Times: 2
+	Query: "UAM 23492" ; Times: 2
+	Query: "panthera" ; Times: 1
+	Query: "UAM 23490" ; Times: 2
+	Query: "UAM 23491" ; Times: 2
+	Query: "aranae" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "UAM 20949" ; Times: 3
+	Query: "UAM 20948" ; Times: 1
+	Query: "UAM 20662" ; Times: 2
+	Query: "field musuem" ; Times: 1
+	Query: "UAM 31727" ; Times: 1
+	Query: "UAM 30822" ; Times: 1
+	Query: "UAM 30821" ; Times: 1
+	Query: "UAM 20582" ; Times: 2
+	Query: "UAM 23711" ; Times: 1
+	Query: "UAM 23717" ; Times: 2
+	Query: "UAM 23956" ; Times: 2
+	Query: "Rangifer tarandus mappable:1" ; Times: 4
+	Query: "34645" ; Times: 1
+	Query: "UAM 30590" ; Times: 1
+	Query: "UAM 31107" ; Times: 1
+	Query: "UAM 31106" ; Times: 1
+	Query: "UAM 31105" ; Times: 2
+	Query: "UAM 31104" ; Times: 2
+	Query: "UAM 31103" ; Times: 1
+	Query: "UAM 31102" ; Times: 2
+	Query: "UAM 23655" ; Times: 1
+	Query: "UAM 23656" ; Times: 3
+	Query: "V 1128" ; Times: 2
+	Query: "UAM 20619" ; Times: 2
+	Query: "60030" ; Times: 1
+	Query: "UAM 30343" ; Times: 3
+	Query: "UAM 23425" ; Times: 2
+	Query: "UAM 23421" ; Times: 2
+	Query: "UAM 23732" ; Times: 1
+	Query: "UAM 23730" ; Times: 2
+	Query: "UAM 20664" ; Times: 1
+	Query: "UAM 20665" ; Times: 1
+	Query: "UAM 35318" ; Times: 2
+	Query: "UAM 23438" ; Times: 1
+	Query: "UAM 23437" ; Times: 2
+	Query: "UAM 23820" ; Times: 1
+	Query: "UAM 23829" ; Times: 1
+	Query: "UAM 23828" ; Times: 2
+	Query: "UAM 23847" ; Times: 2
+	Query: "UAM 20945" ; Times: 2
+	Query: "UAM 34604" ; Times: 2
+	Query: "UAM 23449" ; Times: 1
+	Query: "UAM 20620" ; Times: 1
+	Query: "UAM 31725" ; Times: 1
+	Query: "UAM 23443" ; Times: 1
+	Query: "UAM 23442" ; Times: 2
+	Query: "UAM 23834" ; Times: 1
+	Query: "UAM 30820" ; Times: 1
+	Query: "UAM 23830" ; Times: 1
+	Query: "UAM 23831" ; Times: 2
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "V-1128" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 1
+	Query: "Panthera leo mappable:1" ; Times: 5
+	Query: "UAM 35336" ; Times: 1
+	Query: "UAM 35337" ; Times: 1
+	Query: "UAM 23108" ; Times: 1
+	Query: "UAM 23104" ; Times: 2
+	Query: "UAM 23106" ; Times: 1
+	Query: "UAM 23107" ; Times: 1
+	Query: "UAM 30391" ; Times: 1
+	Query: "UAM 31729" ; Times: 1
+	Query: "UAM 30873" ; Times: 1
+	Query: "UAM 30874" ; Times: 2
+	Query: "48541" ; Times: 1
+	Query: "UAM 35344" ; Times: 1
+	Query: "UAM 35341" ; Times: 1
+	Query: "UAM 34616" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "UAM 23773" ; Times: 1
+	Query: "UAM 23771" ; Times: 3
+	Query: "UAM 23775" ; Times: 1
+	Query: "UAM 23774" ; Times: 1
+	Query: "UAM 23665" ; Times: 2
+	Query: "UAM 23667" ; Times: 2
+	Query: "UAM 23992" ; Times: 2
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "cephalopoda" ; Times: 1
+	Query: "UAM 30818" ; Times: 1
+	Query: "UAM 30819" ; Times: 1
+	Query: "UAM 41652" ; Times: 1
+	Query: "UAM 35335" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1416 download events in this period)
+Total number of records downloaded: 352
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera" ; Times: 1
+	Query: "order:Cetacea institutioncode:UAM" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "cephalopoda" ; Times: 1
+
+
+End of report.
