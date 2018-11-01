@@ -1,0 +1,316 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 406
+Number of records retrieved in searches: 809
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 400
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 5
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-21 ; Times: 3
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 70
+	Date: 2018-10-02 ; Times: 8
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 117
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-10 ; Times: 181
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Decapoda" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11226" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9156" ; Times: 1
+	Query: "catalognumber:23443 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:31727 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23658 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23774 institutioncode:UAM" ; Times: 2
+	Query: "UAM Earth Science 10909" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8811" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9899" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11742" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8814" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29471" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10834" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29464" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29465" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29466" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9819" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10598" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29461" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29462" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29463" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:ES:10909?seid=703344&#34;" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10596" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29468" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29469" ; Times: 1
+	Query: "catalognumber:23771 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:20949 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11334" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:11332" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:11233" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8622" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:12012" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:12011" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9327" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9896" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9897" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:12014" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:10885" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9238" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10045" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10043" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11735" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10041" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:12655" ; Times: 3
+	Query: "catalognumber:23108 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:35341 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10824" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:29451" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11953" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:29453" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29452" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29455" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29454" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29457" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29456" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29459" ; Times: 1
+	Query: "catalognumber:23438 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23655 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9804" ; Times: 1
+	Query: "catalognumber:23437 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10738" ; Times: 3
+	Query: "catalognumber:23104 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3298" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10434" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:9038" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8830" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:3292" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3293" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3290" ; Times: 1
+	Query: "catalognumber:23775 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:35335 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3297" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3294" ; Times: 2
+	Query: "catalognumber:31729 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9648" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9885" ; Times: 3
+	Query: "catalognumber:23106 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9506" ; Times: 1
+	Query: "catalognumber:23491 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9347" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10031" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8931" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11122" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9343" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8935" ; Times: 3
+	Query: "catalognumber:23449 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11942" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:11943" ; Times: 1
+	Query: "locality:aleutian stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "UAM Equus" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9348" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11947" ; Times: 1
+	Query: "Lagomorph" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29449" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11647" ; Times: 5
+	Query: "catalognumber:23442 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11643" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:3283" ; Times: 1
+	Query: "catalognumber:23717 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3289" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9462" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:10548" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3280" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9021" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3282" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3285" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3284" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3286" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10814" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:9532" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9868" ; Times: 3
+	Query: "A-26050" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10812" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:8607" ; Times: 4
+	Query: "catalognumber:20620 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9988" ; Times: 1
+	Query: "catalognumber:35336 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11159" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11863" ; Times: 1
+	Query: "catalognumber:31103 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23107 institutioncode:UAM" ; Times: 2
+	Query: "Panthera leo" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11794" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11855" ; Times: 1
+	Query: "catalognumber:20698 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9906" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8847" ; Times: 1
+	Query: "catalognumber:35337 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:8842" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10544" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9116" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:10658" ; Times: 3
+	Query: "catalognumber:23490 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:30194" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:11068" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:30195" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9567" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11973" ; Times: 2
+	Query: "rangifer" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11669" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11142" ; Times: 1
+	Query: "catalognumber:31725 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11878" ; Times: 1
+	Query: "976416" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11701" ; Times: 1
+	Query: "B Arnold" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:10890" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11981" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11782" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29467" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8859" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:12629" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:9919" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10715" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29460" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10157" ; Times: 7
+	Query: "institutioncode:UAM catalognumber:8851" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10534" ; Times: 2
+	Query: "lagomorph" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10090" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11745" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3291" ; Times: 4
+	Query: "specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11687" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9169" ; Times: 4
+	Query: "genus:Bison institutioncode:UAM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9207" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9206" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3295" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11676" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10909" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:10009" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10644" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10354" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:8998" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11664" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3300" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8862" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:9967" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11770" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:30196" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11205" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9172" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "Hinds" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9079" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9912" ; Times: 1
+	Query: "catalognumber:20619 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29495" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29494" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29491" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29490" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29493" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29492" ; Times: 1
+	Query: "catalognumber:23992 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:31102 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:12604" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:10679" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29458" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10910" ; Times: 6
+	Query: "institutioncode:UAM catalognumber:10858" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9577" ; Times: 1
+	Query: "catalognumber:23492 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29475" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3299" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9877" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9972" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:10073" ; Times: 1
+	Query: "specificepithet:albipes genus:Arborimus" ; Times: 8
+	Query: "institutioncode:UAM catalognumber:29450" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 3
+	Query: "catalognumber:30343 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11353" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29470" ; Times: 1
+	Query: "catalognumber:23773 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29488" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29489" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9464" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29482" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29483" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29480" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29481" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29486" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29487" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29484" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29485" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9548" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:11933" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8801" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11934" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9923" ; Times: 1
+	Query: "catalognumber:23656 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9090" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10661" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:29477" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29476" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29474" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29473" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29472" ; Times: 1
+	Query: "catalognumber:23956 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9303" ; Times: 1
+	Query: "catalognumber:23657 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23487 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29479" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29478" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1300 download events in this period)
+Total number of records downloaded: 16922
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Ecuador ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "Felidae" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "genus:Bison institutioncode:UAM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Plica plica" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
