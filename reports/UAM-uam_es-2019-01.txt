@@ -1,0 +1,98 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 459
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 30
+	Country: United States ; Times: 16
+	Country: Sweden ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 10
+	Date: 2019-01-28 ; Times: 14
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-19 ; Times: 4
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-20 ; Times: 11
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-25 ; Times: 8
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "SP 12543" ; Times: 1
+	Query: "order:Carnivora hasmedia:1 isfossil:1" ; Times: 2
+	Query: "occiduus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "family:Phocidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 2
+	Query: "family:canidae order:Carnivora preparations:skull hasmedia:1" ; Times: 5
+	Query: "family:felidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "order:therapoda hasmedia:1 isfossil:1" ; Times: 1
+	Query: "order:Carnivora preparations:Cranium hasmedia:1 isfossil:1" ; Times: 1
+	Query: "order:Carnivora preparations:Cranium hasmedia:1" ; Times: 1
+	Query: "Dromaeosauridae" ; Times: 1
+	Query: "Smilodon order:Carnivora preparations:Skull hasmedia:1 isfossil:1" ; Times: 1
+	Query: "class:reptilia basisofrecord:FossilSpecimen hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "honey badger" ; Times: 1
+	Query: "specificepithet:lagopus class:Mammalia isfossil:1" ; Times: 4
+	Query: "vntype:specimen order:Saurischia hasmedia:1" ; Times: 1
+	Query: "genus:Alopex" ; Times: 1
+	Query: "Mastodon" ; Times: 1
+	Query: "family:Odobenidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "AK 9587" ; Times: 1
+	Query: "family:Ursidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Alces alces" ; Times: 2
+	Query: "catalognumber:39898 institutioncode:UAM" ; Times: 1
+	Query: "genus:Alces continent:North America isfossil:1" ; Times: 1
+	Query: "order:therapoda class:reptilia basisofrecord:FossilSpecimen hasmedia:1 isfossil:1" ; Times: 1
+	Query: "ephemeroptera" ; Times: 1
+	Query: "family:mustelidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "rangifer tarandus caribou" ; Times: 1
+	Query: "Smilodon hasmedia:1" ; Times: 10
+	Query: "Smilodon hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "specificepithet:lagopus isfossil:1" ; Times: 2
+	Query: "order:Carnivora preparations:skull hasmedia:1 isfossil:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 962 download events in this period)
+Total number of records downloaded: 436
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Sweden ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+	Query: "genus:Alces continent:North America isfossil:1" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 1
+	Query: "genus:Alopex" ; Times: 1
+
+
+End of report.
