@@ -1,0 +1,63 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 185
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Kenya ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-19 ; Times: 5
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;San Diego County&#34; isfossil:1" ; Times: 1
+	Query: "family:Cervidae isfossil:1" ; Times: 1
+	Query: "vntype:specimen class:Mammalia locality:Thompson* isfossil:1" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:Alces alces" ; Times: 2
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "protozoa" ; Times: 1
+	Query: "occurence" ; Times: 1
+	Query: "stateprovince:&#34;Alaska&#34; catalognumber:33457 institutioncode:UAM" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "plantae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1227 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "genus:Camelops isfossil:1" ; Times: 1
+	Query: "skull vntype:specimen genus:Ursus year &gt;= 1990 year &lt;= 2019 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "skull vntype:specimen genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 1
+
+
+End of report.
