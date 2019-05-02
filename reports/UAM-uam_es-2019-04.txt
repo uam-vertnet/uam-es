@@ -1,0 +1,107 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 499
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 50
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Switzerland ; Times: 5
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 16
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-05 ; Times: 4
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 6
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 4
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "snowshoe hare" ; Times: 5
+	Query: "catalognumber:493 institutioncode:UAM" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "specificepithet:arctos family:ursidae hasmedia:1" ; Times: 2
+	Query: "AK 16987" ; Times: 1
+	Query: "UAM 13411" ; Times: 2
+	Query: "UAM 13413" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM isfossil:1 distance(location,geopoint(68.91201946485603,-151.969799332536))&lt;100000" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "30150 class:Mammalia" ; Times: 1
+	Query: "Nyc institutioncode:UAM" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "family:ursidae hasmedia:1" ; Times: 8
+	Query: "genus:Bison institutioncode:UAM isfossil:1 distance(location,geopoint(68.91201946485603,-151.969799332536))&lt;124685" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "genus:Bison (dentary) institutioncode:UAM isfossil:1 distance(location,geopoint(69.56621041411461,-156.540111832536))&lt;119040" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "12171 order:rodentia" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "genus:Equus (dentary) institutioncode:UAM isfossil:1 distance(location,geopoint(69.56621041411461,-156.540111832536))&lt;119040" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "genus:Bison (tooth) institutioncode:UAM isfossil:1 distance(location,geopoint(69.56621041411461,-156.540111832536))&lt;119040" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "UAM 11769" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "specificepithet:americanus family:ursidae hasmedia:1 isfossil:1" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "specificepithet:americanus family:ursidae hasmedia:1" ; Times: 5
+	Query: "Elephantidae" ; Times: 1
+	Query: "genus:Canis hasmedia:1" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "class:Malacostraca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1263 download events in this period)
+Total number of records downloaded: 110
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ruffed grouse" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "genus:Equus (dentary) institutioncode:UAM isfossil:1 distance(location,geopoint(69.56621041411461,-156.540111832536))&lt;119040" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "genus:Bison (dentary) institutioncode:UAM isfossil:1 distance(location,geopoint(69.56621041411461,-156.540111832536))&lt;119040" ; Times: 1
+
+
+End of report.
