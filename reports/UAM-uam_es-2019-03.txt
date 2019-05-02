@@ -1,0 +1,89 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 286
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 19
+	Date: 2019-03-05 ; Times: 3
+	Date: 2019-03-12 ; Times: 8
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-18 ; Times: 6
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "98-047" ; Times: 1
+	Query: "hasmedia:1 isfossil:1" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "catalognumber:27781" ; Times: 1
+	Query: "waldroni" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "order:Diptera stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Alces year &gt;= 1919 year &lt;= 2018" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "14111 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:648 institutioncode:UAM" ; Times: 2
+	Query: "genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "urchin" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "t rex" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Trachycardium muricatum mappable:1" ; Times: 18
+	Query: "23317" ; Times: 1
+	Query: "recordedby:Hoare" ; Times: 1
+	Query: "occurence" ; Times: 3
+	Query: "class:Actinopterygii hasmedia:1 isfossil:1" ; Times: 1
+	Query: "14112 institutioncode:UAM" ; Times: 1
+	Query: "Elephantidae" ; Times: 2
+	Query: "genus:Alces" ; Times: 2
+	Query: "48319" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "catalognumber:509 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "Arcinella arcinella mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1281 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
