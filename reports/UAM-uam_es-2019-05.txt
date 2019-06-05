@@ -1,0 +1,85 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 405
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: United Kingdom ; Times: 3
+	Country: France ; Times: 2
+	Country: India ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-03 ; Times: 20
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 11
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:canis mandible hasmedia:1" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "genus:canis hasmedia:1" ; Times: 10
+	Query: "vntype:specimen genus:Canis hasmedia:1" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:2680 institutioncode:UAM" ; Times: 1
+	Query: "elephantidae" ; Times: 2
+	Query: "UAM 36773" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:2679 institutioncode:UAM" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "genus:Canis hasmedia:1 isfossil:1" ; Times: 1
+	Query: "genus:Canis basisofrecord:FossilSpecimen hasmedia:1" ; Times: 1
+	Query: "V 1653" ; Times: 1
+	Query: "UAM 23421" ; Times: 2
+	Query: "genus:Canis institutioncode:UAM hasmedia:1" ; Times: 2
+	Query: "catalognumber:29513 institutioncode:UAM" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "mandible genus:Canis basisofrecord:FossilSpecimen hasmedia:1" ; Times: 1
+	Query: "genus:canis mandible" ; Times: 1
+	Query: "mandible genus:Canis hasmedia:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "UAM 35335" ; Times: 3
+	Query: "UAM 35336" ; Times: 3
+	Query: "UAM 35337" ; Times: 2
+	Query: "Trachycardium muricatum mappable:1" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "specificepithet:parryii genus:Spermophilus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:2717 institutioncode:UAM" ; Times: 1
+	Query: "genus:Canis hasmedia:1" ; Times: 1
+	Query: "genus: canis mandible" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;alaska&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 940 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:arctos genus:Ursus stateprovince:&#34;Alaska&#34; preparations:skull institutioncode:UAM" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "equus" ; Times: 1
+
+
+End of report.
