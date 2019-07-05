@@ -1,0 +1,210 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 1768
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 142
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 5
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 10
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 7
+	Date: 2019-06-04 ; Times: 11
+	Date: 2019-06-16 ; Times: 3
+	Date: 2019-06-11 ; Times: 77
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-10 ; Times: 18
+	Date: 2019-06-15 ; Times: 2
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-25 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Saurornitholestes specificepithet:langstoni" ; Times: 1
+	Query: "UAM 41630" ; Times: 1
+	Query: "41814" ; Times: 1
+	Query: "genus:Felaniella" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "genus:Thracia" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Fiji NOT Indonesia NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "genus:Diplodonta" ; Times: 1
+	Query: "genus:Nuculana" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "honey badger" ; Times: 3
+	Query: "genus:Solamen" ; Times: 1
+	Query: "genus:Sanguinolaria" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "genus:Papyridea" ; Times: 1
+	Query: "genus:Spisula (Hemimactra)" ; Times: 1
+	Query: "genus:Limatula" ; Times: 1
+	Query: "genus:Plicatula specificepithet:gibbosa" ; Times: 1
+	Query: "genus:Lucinoma" ; Times: 1
+	Query: "catalognumber:31015 institutioncode:UAM" ; Times: 1
+	Query: "genus:Anadara" ; Times: 1
+	Query: "genus:Thyasira" ; Times: 1
+	Query: "genus:Hiatella specificepithet:arctica" ; Times: 1
+	Query: "Black bears" ; Times: 2
+	Query: "genus:Corbicula" ; Times: 1
+	Query: "M-9561" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "saiga" ; Times: 1
+	Query: "41484" ; Times: 2
+	Query: "olsson" ; Times: 2
+	Query: "little black river" ; Times: 2
+	Query: "genus:Laqueus specificepithet:californianus" ; Times: 2
+	Query: "genus:Yoldia" ; Times: 1
+	Query: "genus:Solemya" ; Times: 1
+	Query: "genus:Arctica" ; Times: 1
+	Query: "107071" ; Times: 1
+	Query: "genus:Pitar" ; Times: 1
+	Query: "A. alces" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 1
+	Query: "genus:Parvilucina" ; Times: 1
+	Query: "genus:Clinocardium specificepithet:ciliatum" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Mytilus specificepithet:edulis" ; Times: 1
+	Query: "genus:Parvicardium" ; Times: 1
+	Query: "genus:Spondylus" ; Times: 1
+	Query: "genus:Pododesmus" ; Times: 1
+	Query: "genus:Lemmus specificepithet:trimucronatus" ; Times: 1
+	Query: "genus:Laqueus specificepithet:vancouveriensis " ; Times: 2
+	Query: "genus:Periploma" ; Times: 1
+	Query: "genus:Smilodon specificepithet:fatalis" ; Times: 2
+	Query: "genus:Siliqua" ; Times: 1
+	Query: "genus:Dromaeosaurus specificepithet:albertensis" ; Times: 1
+	Query: "genus:Musculus" ; Times: 1
+	Query: "genus:Lucina specificepithet:pensylvanica" ; Times: 1
+	Query: "25978" ; Times: 1
+	Query: "genus:Mercenaria" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "genus:Terebratalia specificepithet:transversa" ; Times: 2
+	Query: "genus:Megayoldia" ; Times: 1
+	Query: "genus:Glycymeris" ; Times: 1
+	Query: "catalognumber:32210" ; Times: 1
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 2
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "genus:Mammut specificepithet:americanum" ; Times: 3
+	Query: "genus:Spisula" ; Times: 1
+	Query: "genus:Macoma specificepithet:calcarea" ; Times: 2
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "specificepithet:parryii stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:37434" ; Times: 1
+	Query: "genus:Crenella" ; Times: 1
+	Query: "genus:Pandora" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "genus:Phacoides" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Fiji NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "genus:Cyclocardia" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:Chlamys specificepithet:islandica" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "grizzly bear" ; Times: 7
+	Query: "40509" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Angiosperms" ; Times: 2
+	Query: "genus:Ursus specificepithet:maritimus" ; Times: 1
+	Query: "genus:Lemmus specificepithet:sibiricus" ; Times: 1
+	Query: "genus:Yoldiella" ; Times: 1
+	Query: "UAM 22218" ; Times: 6
+	Query: "genus:Pinna" ; Times: 1
+	Query: "42086" ; Times: 1
+	Query: "genus:Tellina" ; Times: 1
+	Query: "catalognumber:38834" ; Times: 1
+	Query: "genus:Mya specificepithet:truncata" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "genus:Macrocallista" ; Times: 1
+	Query: "catalognumber:51224 institutioncode:UAM" ; Times: 1
+	Query: "genus:Modiolus specificepithet:modiolus" ; Times: 2
+	Query: "genus:Ostrea" ; Times: 1
+	Query: "ground hog" ; Times: 3
+	Query: "genus:Sconsia" ; Times: 1
+	Query: "catalognumber:22218 institutioncode:UAM" ; Times: 10
+	Query: "genus:Anomia" ; Times: 1
+	Query: "genus:Chione" ; Times: 1
+	Query: "39671" ; Times: 1
+	Query: "genus:Panomya specificepithet:norvegica" ; Times: 1
+	Query: "genus:Lima" ; Times: 1
+	Query: "genus:Chama specificepithet:macerophylla" ; Times: 2
+	Query: "genus:Dosinia" ; Times: 1
+	Query: "genus:Inoceramus" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "equus" ; Times: 2
+	Query: "mammuthus" ; Times: 1
+	Query: "specificepithet:parryii genus:Spermophilus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:47228 institutioncode:UAM" ; Times: 1
+	Query: "genus:Arctodus specificepithet:simus" ; Times: 2
+	Query: "genus:Gulo specificepithet:gulo" ; Times: 1
+	Query: "genus:Astarte specificepithet:borealis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1182 download events in this period)
+Total number of records downloaded: 6633
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-08 ; Times: 3
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 8
+	Date: 2019-06-04 ; Times: 11
+	Date: 2019-06-05 ; Times: 7
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "marmot" ; Times: 2
+	Query: "Rathbun" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "ground hog" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "catalognumber:22218 institutioncode:UAM" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "A. alces" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "strigiformes" ; Times: 1
+	Query: "grizzly bear" ; Times: 4
+	Query: "honey badger" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "vntype:specimen class:Reptilia hastypestatus:1" ; Times: 1
+	Query: "continent:North America (wolf canis lupus)" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "black bear" ; Times: 2
+	Query: "wolf" ; Times: 1
+	Query: "SNAILS" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+
+
+End of report.
