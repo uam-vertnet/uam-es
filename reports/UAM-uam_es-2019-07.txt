@@ -1,0 +1,97 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 1690
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 1
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 8
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-16 ; Times: 14
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 11
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-19 ; Times: 4
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "A.31512" ; Times: 1
+	Query: "mammalia vntype:specimen year &gt;= 1700 year &lt;= 1800 institutioncode:UAM" ; Times: 1
+	Query: "(phoca) institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "(murie) institutioncode:UAM" ; Times: 2
+	Query: "Alaska Mine" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 11
+	Query: "mammalia vntype:specimen year &gt;= 1800 year &lt;= 1835 institutioncode:UAM" ; Times: 1
+	Query: "geist odobenus vntype:specimen institutioncode:UAM" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "dall vntype:specimen institutioncode:UAM" ; Times: 1
+	Query: "genus:Alopex" ; Times: 1
+	Query: "country:&#34;Canada&#34; institutioncode:UAM" ; Times: 1
+	Query: "genus:Anadara (Scapharca)" ; Times: 1
+	Query: "vntype:specimen genus:vulpes hasmedia:1" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 1
+	Query: "genus:Spisula (Hemimactra)" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "catalognumber:15635 institutioncode:UAM" ; Times: 1
+	Query: "limpet" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 10
+	Query: "merriam vntype:specimen institutioncode:UAM" ; Times: 1
+	Query: "gbifdatasetid:9a201e2f-dada-4cb9-88c7-695e391aeb2f" ; Times: 1
+	Query: "vntype:specimen (phocidae) institutioncode:UAM" ; Times: 1
+	Query: "(phocidae) institutioncode:UAM" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "Protozoa" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 985 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Coronados" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "(walrus) institutioncode:UAM" ; Times: 2
+	Query: "class:reptilia hastypestatus:1" ; Times: 1
+
+
+End of report.
