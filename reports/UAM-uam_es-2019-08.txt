@@ -1,0 +1,108 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 563
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 43
+	Country: Israel ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 6
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-19 ; Times: 5
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 3
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 7
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 7
+	Date: 2019-08-30 ; Times: 6
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:46100" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "30879" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Tracheophyta" ; Times: 1
+	Query: "4721 institutioncode:UAM" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "24809 institutioncode:UAM" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 4
+	Query: "Panthera leo" ; Times: 3
+	Query: "ovibos moschatus" ; Times: 3
+	Query: "14328 institutioncode:UAM" ; Times: 2
+	Query: "ovibos" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "28574" ; Times: 2
+	Query: "21879" ; Times: 1
+	Query: "genus:Anadara (Scapharca)" ; Times: 1
+	Query: "Cephalopoda" ; Times: 1
+	Query: "Echinarachnius parma" ; Times: 1
+	Query: "39641" ; Times: 1
+	Query: "genus:Spisula (Hemimactra)" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "Bootherium" ; Times: 3
+	Query: "catalognumber:48611" ; Times: 1
+	Query: "mosasauridae" ; Times: 1
+	Query: "318915" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 1
+	Query: "Ovibos" ; Times: 2
+	Query: "Panthera" ; Times: 2
+	Query: "family:canidae institutioncode:UAM" ; Times: 1
+	Query: "28575" ; Times: 1
+	Query: "formicidae" ; Times: 1
+	Query: "6917 institutioncode:UAM" ; Times: 2
+	Query: "Bacteria" ; Times: 6
+	Query: "Foraminifera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1034 download events in this period)
+Total number of records downloaded: 1312
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "14328 institutioncode:UAM" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "24809 institutioncode:UAM" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "6917 institutioncode:UAM" ; Times: 1
+
+
+End of report.
