@@ -1,0 +1,126 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 1686
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: United Kingdom ; Times: 14
+	Country: Canada ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 6
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-23 ; Times: 3
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-16 ; Times: 10
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-06 ; Times: 4
+	Date: 2020-04-07 ; Times: 7
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-09 ; Times: 4
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 21
+	Date: 2020-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "(51020) institutioncode:UAM" ; Times: 1
+	Query: "(51024) institutioncode:UAM" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "order:cetacea basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "(50297) institutioncode:UAM" ; Times: 1
+	Query: "(50296) institutioncode:UAM" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "class:Gastropoda basisofrecord:FossilSpecimen" ; Times: 4
+	Query: "(23531) institutioncode:UAM" ; Times: 2
+	Query: "class:reptilia catalognumber:7347" ; Times: 1
+	Query: "(23930) institutioncode:UAM" ; Times: 2
+	Query: "(23551) institutioncode:UAM" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "268489" ; Times: 1
+	Query: "(23928) institutioncode:UAM" ; Times: 1
+	Query: "(50295) institutioncode:UAM" ; Times: 1
+	Query: "(23591) institutioncode:UAM" ; Times: 1
+	Query: "class:Bivalvia basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 3
+	Query: "Axis axis" ; Times: 2
+	Query: "equus" ; Times: 1
+	Query: "(49095)" ; Times: 1
+	Query: "(26682) institutioncode:UAM" ; Times: 1
+	Query: "kingdom:Plantae hasmedia:1 " ; Times: 1
+	Query: "(23927) institutioncode:UAM" ; Times: 1
+	Query: "(23926) institutioncode:UAM" ; Times: 1
+	Query: "34276" ; Times: 1
+	Query: "class:Bivalvia" ; Times: 2
+	Query: "Ovis dalli" ; Times: 4
+	Query: "(50303) institutioncode:UAM" ; Times: 1
+	Query: "V. vulpes" ; Times: 5
+	Query: "(50293) institutioncode:UAM" ; Times: 1
+	Query: "(23606) institutioncode:UAM" ; Times: 2
+	Query: "Alces alces" ; Times: 3
+	Query: "order:cetacea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "AK 11179" ; Times: 1
+	Query: "(50294) institutioncode:UAM" ; Times: 1
+	Query: "40579" ; Times: 2
+	Query: "mastodon" ; Times: 5
+	Query: "class:Gastropoda" ; Times: 3
+	Query: "recordedby:w. w. price" ; Times: 3
+	Query: "(23925) institutioncode:UAM" ; Times: 1
+	Query: "(50298) institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:14737" ; Times: 1
+	Query: "(Cenozoic)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1171 download events in this period)
+Total number of records downloaded: 10172
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-21 ; Times: 3
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "Bison antiquus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "class:Gastropoda" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "class:Bivalvia basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+
+
+End of report.
