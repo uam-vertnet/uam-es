@@ -1,0 +1,146 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 686
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 6
+	Country: United States ; Times: 140
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 2
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-12 ; Times: 23
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 11
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-29 ; Times: 9
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-31 ; Times: 86
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Bison institutioncode:UAM catalognumber:36507" ; Times: 2
+	Query: "SP 11617" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "honey badger" ; Times: 2
+	Query: "UAM 7422" ; Times: 3
+	Query: "UAM 7793" ; Times: 2
+	Query: "specificepithet:leo genus:panthera" ; Times: 3
+	Query: "Dinosauria" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM catalognumber:23489" ; Times: 2
+	Query: "uam 21930" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:32828" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:32951" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:32824" ; Times: 1
+	Query: "genus:Bison institutioncode:UAM catalognumber:32824" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:Bison institutioncode:UAM catalognumber:32826" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM catalognumber:32838" ; Times: 2
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Canis lupus Linnaeus" ; Times: 1
+	Query: "uam 24464" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "UAM 19419" ; Times: 2
+	Query: "AK 14236" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:36112" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:32676" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:23488" ; Times: 2
+	Query: "SP 12586" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM catalognumber:36096" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:32671" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:36762" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM catalognumber:36763" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:29467" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:36248" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:32827" ; Times: 15
+	Query: "genus:Equus institutioncode:UAM catalognumber:36768" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:36769" ; Times: 2
+	Query: "UAM 17862" ; Times: 2
+	Query: "UAM 17863" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "plantae" ; Times: 1
+	Query: "UAM 20162" ; Times: 2
+	Query: "uam 30602" ; Times: 2
+	Query: "239882" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "genus:Bison institutioncode:UAM catalognumber:29458" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:51677" ; Times: 2
+	Query: "SP 11608" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "bison priscus" ; Times: 1
+	Query: "UAM 7794" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM catalognumber:35185" ; Times: 2
+	Query: "Gulo gulo" ; Times: 8
+	Query: "Gastropoda" ; Times: 1
+	Query: "genus:Bison institutioncode:UAM catalognumber:32830" ; Times: 2
+	Query: "UAM 17807" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:29481" ; Times: 2
+	Query: "catalognumber:10951 institutioncode:UAM" ; Times: 2
+	Query: "Bootherium" ; Times: 2
+	Query: "genus:panthera" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:38056" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM catalognumber:42567" ; Times: 1
+	Query: "genus:Bison institutioncode:UAM catalognumber:32839" ; Times: 2
+	Query: "vntype:specimen specificepithet:priscus genus:bison hastissue:1" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:35186" ; Times: 2
+	Query: "UAM 7792" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:42568" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "genus:Bison institutioncode:UAM catalognumber:32669" ; Times: 1
+	Query: "UAM 25196" ; Times: 2
+	Query: "UAM 7871" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:36760" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:32673" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:34241" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:32668" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "genus:Equus institutioncode:UAM catalognumber:32981" ; Times: 2
+	Query: "genus:Equus institutioncode:UAM catalognumber:29477" ; Times: 2
+	Query: "32783" ; Times: 1
+	Query: "genus:Bison institutioncode:UAM catalognumber:32832" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:36117" ; Times: 1
+	Query: "UAM 27352" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:36111" ; Times: 1
+	Query: "(5000) institutioncode:UAM" ; Times: 2
+	Query: "genus:Bison institutioncode:UAM catalognumber:36764" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1308 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus Linnaeus" ; Times: 1
+
+
+End of report.
