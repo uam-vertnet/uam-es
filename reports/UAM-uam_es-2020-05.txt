@@ -1,0 +1,107 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 276
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 24
+	Country: Ireland ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "V-1132" ; Times: 3
+	Query: "vntype:specimen family:Bovidae hasmedia:1" ; Times: 2
+	Query: "Lepus americanus Alaska" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "262233" ; Times: 1
+	Query: "255567" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 2
+	Query: "158008" ; Times: 1
+	Query: "623772" ; Times: 1
+	Query: "725967" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "612047" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "162687" ; Times: 1
+	Query: "AK 9175" ; Times: 1
+	Query: "770385" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "family:Felidae hastypestatus:1" ; Times: 1
+	Query: "346029" ; Times: 1
+	Query: "162688" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "671475" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 1
+	Query: "387370" ; Times: 1
+	Query: "44752" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1106 download events in this period)
+Total number of records downloaded: 4294
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gulo" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "bone valley" ; Times: 1
+
+
+End of report.
