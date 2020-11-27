@@ -1,0 +1,74 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 525
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 61
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-23 ; Times: 61
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "242087" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "frederick island" ; Times: 2
+	Query: "UAM 30990" ; Times: 2
+	Query: "241943" ; Times: 1
+	Query: "specificepithet:parryii genus:Spermophilus institutioncode:UAM" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "Lucina pensylvanica mappable:1" ; Times: 18
+	Query: "Panthera leo" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "axis" ; Times: 1
+	Query: "Hiatella arctica mappable:1" ; Times: 18
+	Query: "50129" ; Times: 2
+	Query: "UAM 25341" ; Times: 1
+	Query: "UAM 43440" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "Chama macerophylla mappable:1" ; Times: 24
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Bacteria" ; Times: 1
+	Query: "Arcinella arcinella mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 596 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
