@@ -1,0 +1,101 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 152
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 18
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-01 ; Times: 8
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Conus" ; Times: 3
+	Query: "human" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "20089 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "7394 institutioncode:UAM" ; Times: 1
+	Query: "order:Pinnipedia institutioncode:UAM" ; Times: 1
+	Query: "ursus maritimus" ; Times: 4
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "Mosasauridae" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "20508 institutioncode:UAM" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;4977167" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "27947" ; Times: 1
+	Query: "&#34;Maastrichtian&#34; class:Reptilia continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "M-16350" ; Times: 2
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "18690 institutioncode:UAM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 940 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Russia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:felidae" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+
+
+End of report.
