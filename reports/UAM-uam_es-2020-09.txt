@@ -1,0 +1,85 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 672
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 12
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "369900" ; Times: 1
+	Query: "vntype:specimen genus:Rangifer tarandus" ; Times: 1
+	Query: "specificepithet:primigenius genus:Mammuthus" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "32708" ; Times: 1
+	Query: "Unionidae" ; Times: 1
+	Query: "scientificname:Panthera leo" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "Bison hasmedia:1" ; Times: 1
+	Query: "Keen" ; Times: 2
+	Query: "mytilus" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 2
+	Query: "vntype:specimen family:Cervidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "whale collection" ; Times: 1
+	Query: "Sciuridae vntype:specimen hasmedia:1" ; Times: 1
+	Query: "vntype:specimen family:Bovidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 976 download events in this period)
+Total number of records downloaded: 345
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pusa hispida" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:lupus arctos genus:canis" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "vntype:specimen family:Cervidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
