@@ -1,0 +1,110 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 834
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: United Kingdom ; Times: 18
+	Country: Mexico ; Times: 6
+	Country: Spain ; Times: 1
+	Country: France ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-22 ; Times: 7
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 14
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 4
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-15 ; Times: 5
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia year &gt;= 1800 year &lt;= 2015 institutioncode:UAM" ; Times: 1
+	Query: "franciscanus" ; Times: 1
+	Query: "panthera" ; Times: 3
+	Query: "family:elephantidae" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 3
+	Query: "50854" ; Times: 1
+	Query: "41813" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "canis paleo" ; Times: 1
+	Query: "genus:panthera country:&#34;united states&#34;" ; Times: 1
+	Query: "scientificname:Rangifer tarandus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "Axis axis" ; Times: 2
+	Query: "cervid" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "field museum 11874" ; Times: 2
+	Query: "macfarlane" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "specificepithet:latrans genus:canis year &lt;= 1900" ; Times: 1
+	Query: "catalognumber:38138 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Equus cf. lambei" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "catalognumber:46602 institutioncode:UAM" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "rostrum" ; Times: 3
+	Query: "ursus arctos alaska" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "elephantidae" ; Times: 1
+	Query: "catalognumber:21837 institutioncode:UAM" ; Times: 2
+	Query: "Elephantidae" ; Times: 7
+	Query: "alces alces" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1521 download events in this period)
+Total number of records downloaded: 36176
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-16 ; Times: 2
+	Date: 2020-10-31 ; Times: 3
+	Date: 2020-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis latrans" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "catalognumber:21837 institutioncode:UAM" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "class:Mammalia country:&#34;United States&#34; continent:America year &gt;= 1800 year &lt;= 2015 hastypestatus:1" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
