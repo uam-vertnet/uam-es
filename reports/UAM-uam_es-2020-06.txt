@@ -1,0 +1,77 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 67
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 8
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-10 ; Times: 25
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "V-1132" ; Times: 1
+	Query: "catalognumber:2456 institutioncode:UAM" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "UAM 7409" ; Times: 1
+	Query: "institutioncode:UAM 7812" ; Times: 2
+	Query: "catalognumber:7409 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:24567 institutioncode:UAM" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "lagomorph" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "catalognumber:35118 institutioncode:UAM" ; Times: 3
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "catalognumber:35134 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:35117 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:35061 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:35063 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:30469 institutioncode:UAM" ; Times: 3
+	Query: "catalognumber:50132 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "kingdom:Plantae hasmedia:1 " ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "catalognumber:24566 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:49980 institutioncode:UAM" ; Times: 5
+	Query: "steelhead" ; Times: 1
+	Query: "catalognumber:35116 institutioncode:UAM" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 474 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+
+
+End of report.
