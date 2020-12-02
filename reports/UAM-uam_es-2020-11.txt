@@ -1,0 +1,117 @@
+Report for Institution Code UAM, Resource uam_es
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 696
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 65
+	Country: Italy ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Belgium ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-05 ; Times: 5
+	Date: 2020-11-23 ; Times: 3
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-26 ; Times: 4
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-02 ; Times: 6
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-10 ; Times: 38
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-12 ; Times: 2
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "spirifer" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "scientificname:Lepus americanus" ; Times: 2
+	Query: "panthera" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 6
+	Query: "elephantidae" ; Times: 1
+	Query: "Elephantidae skull" ; Times: 1
+	Query: "cephalopoda" ; Times: 1
+	Query: "vntype:specimen family:Elephantidae haslength:1" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "47889" ; Times: 1
+	Query: "Rangifer tarandus united states" ; Times: 1
+	Query: "UAM 33349" ; Times: 3
+	Query: "scientificname:Canis lupus" ; Times: 16
+	Query: "UAM 24792" ; Times: 2
+	Query: "Rangifer tarandus" ; Times: 3
+	Query: "scientificname:Delphinapterus leucas" ; Times: 2
+	Query: "Alces" ; Times: 1
+	Query: "50647" ; Times: 1
+	Query: "Rangifer tarandus Alaska" ; Times: 3
+	Query: "scientificname:Synaptomys borealis" ; Times: 1
+	Query: "panthera Leo" ; Times: 1
+	Query: "genus:Arctodus basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "51561" ; Times: 1
+	Query: "scientificname:Bison bison" ; Times: 6
+	Query: "51046" ; Times: 1
+	Query: "scientificname:Ursus americanus" ; Times: 1
+	Query: "brown bears" ; Times: 1
+	Query: "catalognumber:51695" ; Times: 2
+	Query: "175101" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "Elephantidae" ; Times: 2
+	Query: "UAM 6996" ; Times: 1
+	Query: "catalognumber:13425 institutioncode:UAM" ; Times: 1
+	Query: "scientificname:Pusa hispida" ; Times: 1
+	Query: "scientificname:Canis latrans" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 842 download events in this period)
+Total number of records downloaded: 6249
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-13 ; Times: 3
+	Date: 2020-11-12 ; Times: 3
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Alces" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "order:Proboscidea hasmass:1" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 1
+	Query: "order:Proboscidea haslength:1" ; Times: 1
+	Query: "canis lupus arctos" ; Times: 1
+	Query: "panthera Leo" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+
+
+End of report.
